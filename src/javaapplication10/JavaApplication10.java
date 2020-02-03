@@ -7,7 +7,7 @@ package javaapplication10;
 
 /**
  *
- * @author mukulthemalik
+ * @author tajju
  */
 public class JavaApplication10 {
 
